@@ -1,2 +1,2 @@
-# vc_collaboration_exercise
+# The Zen of Python
 Version Collaboration Exercise repository 
